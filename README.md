@@ -1,2 +1,2 @@
-# my-resume
+# Capstone-Resume
 Resume for portfolio
